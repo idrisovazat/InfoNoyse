@@ -2,9 +2,9 @@
 ![alt text](https://github.com/MEgorov/InfoNoyse/blob/master/logo.png)
 
 ## Обзор
-* **Вступление**
-* **Особенности проекта**
-* **Функционал**
+* [**Вступление**](https://github.com/MEgorov/InfoNoyse#Вступление)
+* [**Особенности проекта**](https://github.com/MEgorov/InfoNoyse#Особенности-проекта)
+* [**Функционал**](https://github.com/MEgorov/InfoNoyse#Функционал)
 
 ## Вступление
 
